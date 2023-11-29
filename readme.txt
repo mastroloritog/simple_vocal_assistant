@@ -1,0 +1,1 @@
+modificare anche il file nella cartella "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" oppure WIN+R e "shell:common startup" nella barra di ricerca.
